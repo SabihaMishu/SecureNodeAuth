@@ -55,7 +55,7 @@ SecureNodeAuth
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/SecureNodeAuth.git
+git clone https://github.com/SabihaMishu/SecureNodeAuth
 cd SecureNodeAuth
 ```
 
